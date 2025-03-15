@@ -45,3 +45,7 @@
   </li>
 </ol>
 </p>
+<h3>Результат выполнения программы:</h3>
+![image](https://github.com/user-attachments/assets/142fe80c-387e-4ce7-9ba3-1dc96a489a6c)
+![image](https://github.com/user-attachments/assets/e123bf4c-0066-4e61-a5aa-bd2a62fccbde)
+
