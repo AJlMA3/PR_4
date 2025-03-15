@@ -98,4 +98,7 @@
 </ol>
 </p>
 <h3>Результат выполнения программы:</h3>
-<img width="1440" alt="Снимок экрана 2025-03-14 в 20 09 43" src="" />
+<img width="1440" src="https://github.com/user-attachments/assets/59f92c95-8fe1-4dbf-adac-1b61c73c1ece" />
+<img width="1440" src="https://github.com/user-attachments/assets/fb980cc9-ee0e-460d-9fef-769dc0915092" />
+<img width="1440" src="https://github.com/user-attachments/assets/1e089364-491e-4ee6-b8e0-60ce13bafe83" />
+
